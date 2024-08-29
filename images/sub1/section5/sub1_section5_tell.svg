@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.823" height="54.031" viewBox="0 0 55.823 54.031">
+  <g id="tbg_tell_icon" transform="matrix(0.899, 0.438, -0.438, 0.899, 16.368, -5.189)">
+    <path id="패스_173" data-name="패스 173" d="M622.056,880.1H600.391a1.478,1.478,0,0,1-1.452-1.452V833.415a1.478,1.478,0,0,1,1.452-1.452h21.665a1.478,1.478,0,0,1,1.452,1.452v45.229A1.478,1.478,0,0,1,622.056,880.1Z" transform="translate(-587.101 -831.964)" fill="#1c1738"/>
+    <path id="패스_174" data-name="패스 174" d="M621.82,878.017H603.728a1.478,1.478,0,0,1-1.452-1.452V840.717a1.478,1.478,0,0,1,1.452-1.452H621.82a1.478,1.478,0,0,1,1.452,1.452v35.848A1.56,1.56,0,0,1,621.82,878.017Z" transform="translate(-588.652 -835.357)" fill="#fff"/>
+    <g id="그룹_241" data-name="그룹 241" transform="translate(40.204 12.284)">
+      <path id="패스_175" data-name="패스 175" d="M651.927,861.8a8.89,8.89,0,0,1,3.574,7.259,9.192,9.192,0,0,1-3.127,6.924" transform="translate(-651.927 -858.111)" fill="none" stroke="#1c1738" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.086"/>
+      <path id="패스_176" data-name="패스 176" d="M656.517,854.911a13.7,13.7,0,0,1,5.472,10.944,14.113,14.113,0,0,1-4.8,10.5" transform="translate(-654.06 -854.911)" fill="none" stroke="#1c1738" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.086"/>
+    </g>
+    <g id="그룹_242" data-name="그룹 242" transform="translate(0 12.284)">
+      <path id="패스_177" data-name="패스 177" d="M588.535,861.8a8.89,8.89,0,0,0-3.574,7.259,9.192,9.192,0,0,0,3.127,6.924" transform="translate(-580.606 -858.111)" fill="none" stroke="#1c1738" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.086"/>
+      <path id="패스_178" data-name="패스 178" d="M582.3,854.911a13.7,13.7,0,0,0-5.472,10.944,14.113,14.113,0,0,0,4.8,10.5" transform="translate(-576.825 -854.911)" fill="none" stroke="#1c1738" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.086"/>
+    </g>
+    <path id="패스_179" data-name="패스 179" d="M622.065,835.569H611.9a.48.48,0,0,1-.447-.447h0a.48.48,0,0,1,.447-.447h10.163a.48.48,0,0,1,.447.447h0A.48.48,0,0,1,622.065,835.569Z" transform="translate(-592.917 -833.224)" fill="#fff"/>
+  </g>
+</svg>
