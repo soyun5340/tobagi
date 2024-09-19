@@ -44,7 +44,13 @@ video{
     margin-left: -960px;
 }
 /* header */
+#top{
+    position: relative;
+}
 .header_wrap{
+    background-color: #fff;
+    box-shadow: 0 8px 5px -5px rgba(0,0,0,0.1);
+    height: 100px;
     position: absolute;
     top: 0;
     left: 0;
@@ -74,16 +80,17 @@ video{
     display: flex;
     align-items: center;
     width: 194px;
+    height: 25px;
     margin-top: 45px;
     background-color: #fff;
     padding: 5px 5px 5px 10px;
     box-sizing: border-box;
     border-radius: 90px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    border: 1px solid #cccccc;
 }
 .search_img img{
     display: block;
-    margin-right: 10px;
+    margin-left: 10px;
 }
 .search_bar input{
     display: block;
@@ -96,11 +103,11 @@ video{
 .banner{
     width: 1320px;
     margin: 0 auto;
+    padding-top: 50px;
     height: 700px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    justify-content: center;
     color: #fff;
     font-weight: 700;
     font-size: 48px;
@@ -799,7 +806,6 @@ span{
     border-radius: 20px 20px 20px 20px;
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
     margin-bottom: 10px;
-    cursor: pointer;
 }
 .event div img{
     width: 100%;
@@ -866,4 +872,5 @@ span{
     width: 210px;
     display: flex;
     justify-content: space-around;
+    cursor: pointer;
 }
