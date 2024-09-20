@@ -137,10 +137,19 @@ body{
     display: block;
     cursor: pointer;
 }
+.autoplay li p{
+    margin-top: 5px;
+    padding-left: 10px;
+}
+.price{
+    font-size: 26px;
+    font-weight: 600;
+}
 /* sub3_section4 */
 #sub3_section4{
     width: 1320px;
     margin: 130px auto;
+    padding-top: 60px;
 }
 .coupon{
     background: url(../images/sub3/section4/sub3_section4_1.png) no-repeat center top 0px;
